@@ -1,9 +1,9 @@
 class Max < Formula
   desc "Max is a YAML-based task runner"
   homepage "https://github.com/frozzare/max"
-  url "https://github.com/frozzare/max/releases/download/v1.1.0/max_1.1.0_darwin_amd64.tar.gz"
-  version "1.1.0"
-  sha256 "c91cdb677f0c130070af73cf82737ea1c250b79631b1dcf9b07db207c822a955"
+  url "https://github.com/frozzare/max/releases/download/v1.1.1/max_1.1.1_darwin_amd64.tar.gz"
+  version "1.1.1"
+  sha256 "f3a6e1df7521833d89cdc5a5c9636d23385383171fc0b1a5996096fb0db98480"
 
   def install
     bin.install "max"
